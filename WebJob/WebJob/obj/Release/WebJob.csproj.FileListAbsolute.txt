@@ -1,0 +1,7 @@
+D:\Sachin\Training Doc\POC\WebJob\WebJob\bin\Release\WebJob.exe.config
+D:\Sachin\Training Doc\POC\WebJob\WebJob\bin\Release\WebJob.exe
+D:\Sachin\Training Doc\POC\WebJob\WebJob\bin\Release\WebJob.pdb
+D:\Sachin\Training Doc\POC\WebJob\WebJob\obj\Release\WebJob.csprojAssemblyReference.cache
+D:\Sachin\Training Doc\POC\WebJob\WebJob\obj\Release\WebJob.csproj.CoreCompileInputs.cache
+D:\Sachin\Training Doc\POC\WebJob\WebJob\obj\Release\WebJob.exe
+D:\Sachin\Training Doc\POC\WebJob\WebJob\obj\Release\WebJob.pdb
